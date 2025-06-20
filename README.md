@@ -234,13 +234,6 @@ If you use this work in your research, please cite:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📧 Contact
-
-**Devon Cardoso Elias**
-- Student ID: 64238
-- Institution: Vistula University
-- Program: Computer Science
-
 ---
 
 ⭐ **Star this repository if you found it helpful!**
