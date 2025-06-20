@@ -1,0 +1,68 @@
+_pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Dataset files (large files)
+data/raw/*.csv
+data/raw/*.log
+data/raw/*.pcap
+data/raw/*.zip
+data/processed/*.csv
+data/processed/*.pkl
+data/processed/*.h5
+
+# Model files
+models/saved_models/*.h5
+models/saved_models/*.pkl
+models/checkpoints/*
+
+# Log files
+logs/**/*.log
+logs/fit/*
+logs/tensorboard/*
+
+# Results
+results/figures/*.png
+results/figures/*.jpg
+results/confusion_matrices/*
+results/performance_metrics/*
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
