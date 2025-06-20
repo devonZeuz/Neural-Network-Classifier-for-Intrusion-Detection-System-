@@ -1,6 +1,18 @@
-IoT Network Traffic Intrusion Detection System
-A Neural Network Classifier for Anomaly-Based Intrusion Detection in IoT Networks
+# IoT Network Traffic Intrusion Detection System
+### A Neural Network Classifier for Anomaly-Based Intrusion Detection in IoT Networks
 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.8%2B-orange.svg)](https://www.tensorflow.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+
+[![Accuracy](https://img.shields.io/badge/Accuracy-83.66%25-green.svg)]()
+[![ROC-AUC](https://img.shields.io/badge/ROC--AUC-0.9714-green.svg)]()
+[![Parameters](https://img.shields.io/badge/Parameters-18.2K-blue.svg)]()
+[![Memory](https://img.shields.io/badge/Memory-725MB-blue.svg)]()
+
+---
 
 🎯 Project Overview
 This project implements a deep learning-based Intrusion Detection System (IDS) specifically designed for IoT network traffic classification. Using the IoT-23 dataset, our neural network model achieves 83.66% accuracy with a ROC-AUC score of 0.9714 in distinguishing between benign and malicious network traffic.
